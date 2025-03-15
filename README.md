@@ -1,4 +1,4 @@
-- 👋 A Molecular Biology master student who's struggling trying to learn programming.
+- 👋 Working in Biotechnology Industry and Thinking Programming is fun!
 
 <!---
 saltyyyyy/saltyyyyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
